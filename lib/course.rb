@@ -3,7 +3,7 @@ class Course
   
   @@all = []
   
-  def initailize
+  def initialize
     @@all << self
   end
   
